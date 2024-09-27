@@ -1,0 +1,16 @@
+C:\Users\kyle\Desktop\1Programming\visual basics\gradingSystem\obj\Debug\net8.0-windows\gradingSystem.gradingSystem.resources
+C:\Users\kyle\Desktop\1Programming\visual basics\gradingSystem\obj\Debug\net8.0-windows\gradingSystem.vbproj.GenerateResource.cache
+C:\Users\kyle\Desktop\1Programming\visual basics\gradingSystem\obj\Debug\net8.0-windows\gradingSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kyle\Desktop\1Programming\visual basics\gradingSystem\obj\Debug\net8.0-windows\gradingSystem.AssemblyInfoInputs.cache
+C:\Users\kyle\Desktop\1Programming\visual basics\gradingSystem\obj\Debug\net8.0-windows\gradingSystem.AssemblyInfo.vb
+C:\Users\kyle\Desktop\1Programming\visual basics\gradingSystem\obj\Debug\net8.0-windows\gradingSystem.vbproj.CoreCompileInputs.cache
+C:\Users\kyle\Desktop\1Programming\visual basics\gradingSystem\bin\Debug\net8.0-windows\gradingSystem.exe
+C:\Users\kyle\Desktop\1Programming\visual basics\gradingSystem\bin\Debug\net8.0-windows\gradingSystem.deps.json
+C:\Users\kyle\Desktop\1Programming\visual basics\gradingSystem\bin\Debug\net8.0-windows\gradingSystem.runtimeconfig.json
+C:\Users\kyle\Desktop\1Programming\visual basics\gradingSystem\bin\Debug\net8.0-windows\gradingSystem.dll
+C:\Users\kyle\Desktop\1Programming\visual basics\gradingSystem\bin\Debug\net8.0-windows\gradingSystem.pdb
+C:\Users\kyle\Desktop\1Programming\visual basics\gradingSystem\obj\Debug\net8.0-windows\gradingSystem.dll
+C:\Users\kyle\Desktop\1Programming\visual basics\gradingSystem\obj\Debug\net8.0-windows\refint\gradingSystem.dll
+C:\Users\kyle\Desktop\1Programming\visual basics\gradingSystem\obj\Debug\net8.0-windows\gradingSystem.pdb
+C:\Users\kyle\Desktop\1Programming\visual basics\gradingSystem\obj\Debug\net8.0-windows\gradingSystem.genruntimeconfig.cache
+C:\Users\kyle\Desktop\1Programming\visual basics\gradingSystem\obj\Debug\net8.0-windows\ref\gradingSystem.dll
